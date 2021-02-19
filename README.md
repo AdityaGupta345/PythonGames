@@ -1,5 +1,5 @@
-# NumqQizGame
-A simple number quiz game and a number guesser game made in python3
+# Simple python games
+This are simple python text based games like quiz , guess etc. these are made in python3 and are not too complicated to understand for begginers.
 
 # Modules Used
 • Random
@@ -12,9 +12,8 @@ A simple number quiz game and a number guesser game made in python3
 
 • A simple number guesser game
 
-• Best for begginers(i am also begginer🤣)
 
 # How to run?
-Nothing special. just download the source code 
-and run it. 
+Nothing special. just download the source code or clone it 
+and then run it. 
 
