@@ -14,3 +14,7 @@ A simple number quiz game and a number guesser game made in python3
 
 • Best for begginers(i am also begginer🤣)
 
+# How to run?
+Nothing special. just download the source code 
+and run it. 
+
